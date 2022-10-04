@@ -6,12 +6,12 @@ generators:
 # # This group validator policy is for all single-node deployments:
 #  - group-du-sno-validator-ranGen.yaml
 # This group policy is for all compressed 3-node cluster deployments:
-  - group-du-3node-ranGen.yaml
+#  - group-du-3node-ranGen.yaml
 # This group validator policy is for all compressed 3-node cluster deployments:
 #  - group-du-3node-validator-ranGen.yaml
 
 # # These are examples that should be replicated for every individual site:
-  - ztpcluster3.yaml
+#  - ztpcluster3.yaml
 ## adding for upgrade, only add it back for upgrade.
 #  - du-upgrade.yaml
 
