@@ -11,7 +11,7 @@ generators:
 #  - group-du-3node-validator-ranGen.yaml
 
 # # These are examples that should be replicated for every individual site:
-#  - ztpcluster3.yaml
+  - ztpcluster3.yaml
 ## adding for upgrade, only add it back for upgrade.
 #  - du-upgrade.yaml
 
