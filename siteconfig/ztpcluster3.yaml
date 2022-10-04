@@ -3,8 +3,8 @@
 apiVersion: ran.openshift.io/v1
 kind: SiteConfig
 metadata:
-  name: "sno1"
-  namespace: "sno1"
+  name: "ztpcluster3"
+  namespace: "ztpcluster3"
 spec:
   baseDomain: "cotton.blue"
   pullSecretRef:
