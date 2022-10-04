@@ -2,12 +2,12 @@
 apiVersion: ran.openshift.io/v1
 kind: PolicyGenTemplate
 metadata:
-  name: "ztpcluster3"
+  name: "ztpcluster3-alflab-att-com"
   namespace: "ztp-site"
 spec:
   bindingRules:
     # These policies will correspond to all clusters with this label:
-    sites: "ztpcluster3"
+    sites: "ztpcluster3-alflab-att-com"
     du-profile: "v4.10"
   mcp: "master"
   sourceFiles:
