@@ -4,4 +4,4 @@ kind: Kustomization
 resources:
 #  - ztpcluster1
 #  - ztpcluster2
-  - ztpcluster3
+#  - ztpcluster3
