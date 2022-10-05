@@ -1,7 +1,7 @@
 generators:
   - common-ranGen.yaml
   - group-du-sno-ranGen.yaml
-#  - site-ztpcluster3.yaml
+  - site-ztpcluster3.yaml
 
 resources:
   - ns.yaml
