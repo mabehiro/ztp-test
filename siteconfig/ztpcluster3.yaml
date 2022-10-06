@@ -42,7 +42,7 @@ spec:
     nodes:
       - hostName: "cluster1"
         role: "master"
-        bmcAddress: "redfish-virtualmedia+http://192.168.86.49:8000/redfish/v1/Systems/11f896bf-59b7-44bc-b4b1-09dcc2b4af32"
+        bmcAddress: "redfish-virtualmedia+http://192.168.86.49:8000/redfish/v1/Systems/7f2a21c7-0f26-415d-b7aa-399d116af063"
         bmcCredentialsName:
           name: "sno-bmc-secret"
         bootMACAddress: "52:54:00:4c:f6:be"
