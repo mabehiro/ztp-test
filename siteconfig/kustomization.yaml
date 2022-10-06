@@ -5,4 +5,4 @@ generators:
 #  - ztpcluster3.yaml
 
 resources:
-  - job-monitor-cluster-install.yaml
+#  - job-monitor-cluster-install.yaml
