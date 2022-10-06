@@ -4,9 +4,9 @@ metadata:
   name: job-monitor-cluster-install
   namespace: cluster1
   annotations:
-    argocd.argoproj.io/hook: Sync
-    argocd.argoproj.io/hook-delete-policy: HookSucceeded
-    argocd.argoproj.io/sync-wave: "7"
+    # argocd.argoproj.io/hook: Sync
+    # argocd.argoproj.io/hook-delete-policy: HookSucceeded
+    # argocd.argoproj.io/sync-wave: "7"
 spec:
   template:
     spec:
